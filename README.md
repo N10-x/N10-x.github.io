@@ -1,1 +1,1 @@
-n10-x.github.io
+https://n10-x.github.io

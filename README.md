@@ -1,1 +1,1 @@
-n10-x.github.com
+n10-x.github.io

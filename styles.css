@@ -3,7 +3,7 @@
     height: 100vh; /* 或指定的高度 */  
     position: relative;  
     overflow: hidden;  
-    background-image: url('../img/bj.png'); /* 替换为你的图片URL */  
+    background-image: url('img/bj.png'); /* 替换为你的图片URL */  
     background-repeat: repeat-x; /* 横向重复，但这仅用于静态展示 */  
     background-position: 0 0;  
     background-size: cover; /* 或 auto 100% 取决于你的需要 */  

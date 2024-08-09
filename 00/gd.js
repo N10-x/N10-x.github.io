@@ -2,7 +2,7 @@
 let container = document.getElementById('background-wrapper');  
 let bgWidth = container.clientWidth; // 容器宽度  
 let bgImage = new Image();  
-bgImage.src = 'img/bj.png'; // 替换为你的图片URL  
+bgImage.src = '../img/bj.png'; // 替换为你的图片URL  
 bgImage.onload = function() {  
     let bgHeight = bgImage.height; // 图片高度  
     let scrollPosition = 0; // 初始滚动位置  

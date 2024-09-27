@@ -16,7 +16,7 @@ bgImage.onload = function() {
   
         // 动态修改背景图位置  
         container.style.backgroundPosition = `${scrollPosition}px 0`;  
-    }, 30); // 每10毫秒滚动一次，可以根据需要调整速度  
+    }, 120); // 每10毫秒滚动一次，可以根据需要调整速度  
 };  
   
 // 注意：上面的实现方式其实并不准确，因为我们是用CSS的background-position来模拟的。  
